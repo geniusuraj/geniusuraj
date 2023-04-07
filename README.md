@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **SQL**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://geniusuraj.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://geniusuraj.github.io)
 
 - 💬 Ask me about **JAVA,HTML,CSS,JavaScript**
 
