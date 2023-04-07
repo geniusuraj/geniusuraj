@@ -1,6 +1,8 @@
+
+
 <h1 align="center">Hi 👋, I'm Suraj Kumar Sharma</h1>
 <h3 align="center">Passionate Core Java enthusiast with proficiency in JavaScript, HTML, and CSS</h3>
-<img align="right" width="60%" src="https://github.com/geniusuraj/geniusuraj/blob/main/full-stack-development.gif"/>
+<img align="center" src="https://github.com/geniusuraj/geniusuraj/blob/main/banner.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geniusuraj&label=Profile%20views&color=0e75b6&style=flat" alt="geniusuraj" /> </p>
 
 - 🌱 I’m currently learning **SQL**
