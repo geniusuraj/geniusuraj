@@ -5,11 +5,11 @@
 <img align="center" src="https://github.com/geniusuraj/geniusuraj/blob/main/banner.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geniusuraj&label=Profile%20views&color=0e75b6&style=flat" alt="geniusuraj" /> </p>
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://geniusuraj.github.io/)
 
-- 💬 Ask me about **JAVA,HTML,CSS,JavaScript**
+- 💬 Ask me about **JAVA,Spring Boot,SQL,HTML,CSS,JavaScript**
 
 - 📫 How to reach me **geniusurajpy@gmail.com**
 
